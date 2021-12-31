@@ -1,5 +1,5 @@
 """
-    In this project creates a program that calculates the total
+    This project creates a program that calculates the total
     cost of a customers shopping basket, including shipping.
 
     - If a customer spends over $100, they get free shipping
